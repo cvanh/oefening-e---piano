@@ -6,47 +6,47 @@ document.getElementById("c1").onclick = function () {
 }
 document.getElementById("cc1").onclick = function () {
 	var cc1_toets = document.getElementById("audio_cc1");
-	d_toets.play();
+	cc1_toets.play();
 }
 document.getElementById("d1").onclick = function () {
-	var d_toets = document.getElementById("audio_d1");
-	d_toets.play();
+	var d1_toets = document.getElementById("audio_d1");
+	d1_toets.play();
 }
 document.getElementById("dd1").onclick = function () {
-	var d_toets = document.getElementById("audio_dd1");
-	d_toets.play();
+	var dd1_toets = document.getElementById("audio_dd1");
+	dd1_toets.play();
 }
 document.getElementById("e1").onclick = function () {
-	var d_toets = document.getElementById("audio_e1");
-	d_toets.play();
+	var e1_toets = document.getElementById("audio_e1");
+	e1_toets.play();
 }
 document.getElementById("ee1").onclick = function () {
-	var d_toets = document.getElementById("audio_ee1");
-	d_toets.play();
+	var ee1_toets = document.getElementById("audio_ee1");
+	ee1_toets.play();
 }
 document.getElementById("f1").onclick = function () {
-	var d_toets = document.getElementById("audio_f1");
-	d_toets.play();
+	var f1_toets = document.getElementById("audio_f1");
+	f1_toets.play();
 }
 document.getElementById("ff1").onclick = function () {
-	var d_toets = document.getElementById("audio_ff1");
-	d_toets.play();
+	var ff1_toets = document.getElementById("audio_ff1");
+	ff1_toets.play();
 }
 document.getElementById("g1").onclick = function () {
-	var d_toets = document.getElementById("audio_g1");
-	d_toets.play();
+	var g1_toets = document.getElementById("audio_g1");
+	g1_toets.play();
 }
 document.getElementById("gg1").onclick = function () {
-	var d_toets = document.getElementById("audio_gg1");
-	d_toets.play();
+	var gg1_toets = document.getElementById("audio_gg1");
+	gg1_toets.play();
 }
 document.getElementById("a1").onclick = function () {
-	var d_toets = document.getElementById("audio_a1");
-	d_toets.play();
+	var a1_toets = document.getElementById("audio_a1");
+	a1_toets.play();
 }
 document.getElementById("b1").onclick = function () {
-	var d_toets = document.getElementById("audio_b1");
-	d_toets.play();
+	var b1_toets = document.getElementById("audio_b1");
+	b1_toets.play();
 }
 
 
