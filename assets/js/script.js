@@ -2,9 +2,9 @@
 
 // octaaf 1
 
-document.getElementById("c1").onclick = function () {
+document.getElementById("c1").onclick = function () {//kijkt of er geklicht is op een toets en als dat gebeurt dan wordt er een fucntie uitgevoerd
 	var c1_toets = document.getElementById("audio_c1");
-	c1_toets.play();
+	c1_toets.play(); //speelt geluid af
 	console.log("ER IS EEN TOETS INGEDRUKT AAAAAAAAAAAAAAAA")//debug line
 }
 document.getElementById("cc1").onclick = function () {
@@ -74,11 +74,11 @@ document.getElementById("g2").onclick = function () {
 	var g_toets = document.getElementById("audio_g2");
 	g_toets.play();
 }
-document.getElementById("a2").onclick = function () {//deze doen het niet
+document.getElementById("a2").onclick = function () {
 	var a_toets = document.getElementById("audio_a2");
 	a_toets.play();
 }
-document.getElementById("b2").onclick = function () {// deze doen het niet
+document.getElementById("b2").onclick = function () {
 	var b_toets = document.getElementById("audio_b2");
 	b_toets.play();
 }
