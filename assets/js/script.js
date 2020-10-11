@@ -1,8 +1,11 @@
+// alraight dus werkstuk 1: dus het gekke is als ik octaaf 1 uit schakel doet octaaf 2 het wel. maar als ik ze alle bij inschakelt doet niks het. like ik snap het echt niet meer, dus ik dacht ik vraag het op zo'n discord server voor dev's maar tot weinig success 
+
 // octaaf 1
 
 document.getElementById("c1").onclick = function () {
 	var c1_toets = document.getElementById("audio_c1");
 	c1_toets.play();
+	console.log("ER IS EEN TOETS INGEDRUKT AAAAAAAAAAAAAAAA")//debug line
 }
 document.getElementById("cc1").onclick = function () {
 	var cc1_toets = document.getElementById("audio_cc1");
@@ -48,9 +51,6 @@ document.getElementById("b1").onclick = function () {
 	var b1_toets = document.getElementById("audio_b1");
 	b1_toets.play();
 }
-
-
-
 
 // octaaf 2 
 
