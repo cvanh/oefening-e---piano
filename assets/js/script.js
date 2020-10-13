@@ -55,8 +55,8 @@ document.getElementById("b1").onclick = function () {
 // octaaf 2 
 
 document.getElementById("c2").onclick = function () { // als op de c-toets wordt geklikt
-	var c_toets = document.getElementById("audio_c2"); // zoek het c-toets audio-element op
-	c_toets.play(); // speel het audio-element af
+	var c2_toets = document.getElementById("audio_c2"); // zoek het c-toets audio-element op
+	c2_toets.play(); // speel het audio-element af
 }
 document.getElementById("d2").onclick = function () {
 	var d_toets = document.getElementById("audio_d2");
@@ -81,5 +81,26 @@ document.getElementById("a2").onclick = function () {//deze doen het niet
 document.getElementById("b2").onclick = function () {// deze doen het niet
 	var b_toets = document.getElementById("audio_b2");
 	b_toets.play();
+}
+
+document.getElementById("cc2").onclick = function () {// deze doen het niet
+	var cc2_toets = document.getElementById("audio_cc2");
+	cc2_toets.play();
+}
+document.getElementById("dd2").onclick = function () {// deze doen het niet
+	var dd2_toets = document.getElementById("audio_dd2");
+	dd2_toets.play();
+}
+document.getElementById("ff2").onclick = function () {// deze doen het niet
+	var ff2_toets = document.getElementById("audio_ff2");
+	ff2_toets.play();
+}
+document.getElementById("gg2").onclick = function () {// deze doen het niet
+	var gg2_toets = document.getElementById("audio_gg2");
+	gg2_toets.play();
+}
+document.getElementById("aa2").onclick = function () {// deze doen het niet
+	var aa2_toets = document.getElementById("audio_aa2");
+	aa2_toets.play();
 }
 //<!C - C# - D - D# - E - F - F# - G - G# - A - A# - B>
